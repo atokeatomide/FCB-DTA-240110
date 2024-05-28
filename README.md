@@ -3,7 +3,12 @@
 
 ## BOOTCAMP
 
-### this is the bringing togethher different people,ethics and country to teach and empower them
+### this is the bringing together of different people,ethics and country to teach and empower them.
 # TOOLS USED
-## MICROSOFTWORD
--Data analysis
+### Microsoftexcel
+### python
+- Data analysis
+[click here](www.google.com)
+1. eating
+2. *gone*
+3. **te,ll**

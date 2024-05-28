@@ -16,26 +16,24 @@
 4. ***great***
 
 
-````
+```
 
 Google Query Sheet
 
 SELECT*THEN
 
-
-
-
-
-
-
-
-
+SELECT
 
 ```
 
-SELECT*
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|---------|
+|DATA 1|DATA 2|DATA 3|
 
-```
 
-![](IMG_5910_edited_edited.jpg) 
+![](IMG_5910_edited_edited.jpg)
 
+
+|DAY 1|DAY 2|DAY 3|
+|-----|-----|-----|
+|DATA 1|DATA 2|DATA 3|
